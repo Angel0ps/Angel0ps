@@ -1,4 +1,4 @@
-<p align="center"><img height="230" width="900" src="imgs/banner_centralizado.jpeg"/></p>
+<p align="center"><img height="280" width="900" src="imgs/banner_centralizado.jpeg"/></p>
 
 ---
 
@@ -50,13 +50,6 @@ To achieve this, I continuously deepen my knowledge of CI/CD, Infrastructure as 
 
 <details>
 <summary><a href="https://github.com/Angel0ps"><img src=https://img.shields.io/badge/EXPAND%20TO%20MORE-D3D3D3" /></a> </summary>
-
-<img height="180" width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Angel0ps&theme=dark&animation=stagger" />&nbsp;
-<img height="180" width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Angel0ps&theme=dark&animation=stagger" />&nbsp;
-<img height="180" width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Angel0ps&theme=dark&animation=stagger" />&nbsp;
-<img height="180" width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Angel0ps&theme=dark&animation=stagger&utcOffset=0" />&nbsp; 
-
----
 
 <p align="center"><img height="150" width="400" src="imgs/Fuel.png"/>
 
