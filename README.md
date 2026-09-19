@@ -21,9 +21,7 @@
 
 </div>
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2600&pause=900&color=E5E5E5&center=true&vCenter=true&width=900&lines=%F0%9F%90%A7+Linux+%26+Infraestrutura;%E2%98%81%EF%B8%8F+Cloud+%26+Orquestra%C3%A7%C3%A3o;%F0%9F%94%81+CI%2FCD+e+Infrastructure+as+Code;%F0%9F%9B%A1%EF%B8%8F+DevSecOps+e+Compliance" alt="Typing Animation"/>
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Angel0ps&label=Profile%20Views&color=2e2e2e&style=for-the-badge" />
@@ -109,7 +107,7 @@ Assistente de Tecnologias da Informação • Assistente Administrativo Completo
 
 ---
 
-## `> focus`
+## `> foco`
 
 <div align="center">
 
@@ -126,7 +124,7 @@ Assistente de Tecnologias da Informação • Assistente Administrativo Completo
 
 ---
 
-## `> tech_stack under study`
+## `> minha stack em aprendizado`
 
 <div align="center">
 
