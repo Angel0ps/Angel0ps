@@ -65,8 +65,6 @@ Sou estudante de **Engenharia de Software** na Universidade Federal do Cariri (U
 
 Direciono minha carreira para **DevOps**, com foco na construção de ambientes e soluções escaláveis, automatizadas, seguras e confiáveis. Para isso, venho aprofundando meus conhecimentos em **CI/CD, Infrastructure as Code (IaC), Cloud Computing, Sistemas Operacionais e Compliance**, além de automação de processos com **Python** e **n8n** e da aplicação de práticas de segurança no desenvolvimento.
 
-Vamos conversar sobre infraestrutura, orquestração em nuvem, DevOps e cibersegurança.
-
 <br>
 
 <div align="center">
@@ -102,7 +100,7 @@ wellington = {
 <details>
 <summary>Formação técnica complementar</summary>
 <br>
-Assistente de Tecnologias da Informação • Assistente Administrativo Completo • Montagem e Reparo de Computadores • Profissional em Comércio de Bens, Serviços e Turismo.
+Assistente de Tecnologias da Informação • Assistente Administrativo Completo • Profissional em Montagem e Reparo de Computadores • Profissional em Comércio de Bens, Serviços e Turismo e muito mais.
 </details>
 
 ---
