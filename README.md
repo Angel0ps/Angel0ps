@@ -1,4 +1,4 @@
-<p align="center"><img height="280" width="900" src="imgs/banner_centralizado.jpeg"/></p>
+<p align="center"><img height="350" width="1000" src="imgs/banner_centralizado.jpeg"/></p>
 
 ---
 
@@ -16,41 +16,44 @@ Para isso, venho aprofundando continuamente meus conhecimentos em CI/CD, Infrast
 
 ---
 
-### Linguagens em aprendizado:
+### Ferramentas as quais estudo:
+
+#### Linguagens:
 
 ![Python](https://img.shields.io/badge/python-005FFF.svg?style=for-the-badge&logo=python&logoColor=white)
 ![GO](https://img.shields.io/badge/-FFF.svg?style=for-the-badge&logo=go&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/Javacript-%23007ACC.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![C](https://img.shields.io/badge/-FFF.svg?style=for-the-badge&logo=c&logoColor=%2361DAFB)
 
-### Ferramentas as quais estudo:
+#### Soluções para infraestrutura:
 
+![Jenkins](https://img.shields.io/badge/jenkins-000000.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![kubernets](https://img.shields.io/badge/Kubernets-555FFF.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000FFF.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-000000.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+#### Ambientes:
+
+![AWS](https://img.shields.io/badge/aws-%23FCC624.svg?style=for-the-badge&logo=aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-000FFF.svg?style=for-the-badge&logo=azure&logoColor=blue)
+![Ubuntu](https://img.shields.io/badge/ubuntu-%23F38020.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/debian-000000.svg?style=for-the-badge&logo=debian&logoColor=white)
 
 #### Sistemas de Banco de Dados:
 
-![InfluxDB](https://img.shields.io/badge/influxdb-008FFF.svg?style=for-the-badge&logo=influxdb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-19FFFF.svg?style=for-the-badge&logo=mysql&logoColor=black)
-![MongoDB](https://img.shields.io/badge/mongodb-008FF.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-008FF.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Frameworks:
 ![Calms](https://img.shields.io/badge/calms-FFF.svg?style=for-the-badge)
 ![Dora](https://img.shields.io/badge/dora-000000.svg?style=for-the-badge&logo=dora&logoColor=white)
-![Nist](https://img.shields.io/badge/nist-F01050.svg?style=for-the-badge&logo=nist&logoColor=white)
-![Space](https://img.shields.io/badge/space-FFF000.svg?style=for-the-badge&logo=space&logoColor=white)
+
+
+#### Utilizo:
+
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![GitLab](https://img.shields.io/badge/gitlab-%23F38020.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-<details>
-<summary><a href="https://github.com/Angel0ps"><img src=https://img.shields.io/badge/EXPAND%20TO%20MORE-D3D3D3" /></a> </summary>
-
-<p align="center"><img height="150" width="400" src="imgs/Fuel.png"/>
-
-<br></details>
