@@ -19,11 +19,11 @@ Para isso, venho aprofundando continuamente meus conhecimentos em CI/CD, Infrast
 ### Linguagens em aprendizado:
 
 ![Python](https://img.shields.io/badge/python-005FFF.svg?style=for-the-badge&logo=python&logoColor=white)
-![GO](https://img.shields.io/badge/go-FFF.svg?style=for-the-badge&logo=go&logoColor=blue)
+![GO](https://img.shields.io/badge/-FFF.svg?style=for-the-badge&logo=go&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/Javacript-%23007ACC.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![C](https://img.shields.io/badge/c-FFF.svg?style=for-the-badge&logo=c&logoColor=%2361DAFB)
+![C](https://img.shields.io/badge/-FFF.svg?style=for-the-badge&logo=c&logoColor=%2361DAFB)
 
 ### Ferramentas as quais estudo:
 
