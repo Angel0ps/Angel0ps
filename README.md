@@ -83,7 +83,7 @@ wellington = {
     ],
     "tools": ["Docker", "Kubernetes", "Jenkins", "Python", "n8n"],
     "university": "UFCA",
-    "os": "Linux, by the way"
+    "os": "Arch Linux, by the way"
 }
 </pre>
 
@@ -130,15 +130,15 @@ Assistente de Tecnologias da Informação • Assistente Administrativo Completo
 
 **Linguagens**
 
-<img src="https://skillicons.dev/icons?i=python,go,js,react,c,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,go,js,c,bash&theme=dark" />
 
 **Infraestrutura & Orquestração**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,cloudflare,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,cloudflare&theme=dark" />
 
 **Ambientes**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,ubuntu,debian,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,azure,ubuntu,debian&theme=dark" />
 
 **Bancos de Dados**
 
