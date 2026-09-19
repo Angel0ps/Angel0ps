@@ -1,4 +1,4 @@
-<p align="center"><img height="350" width="1000" src="imgs/banner_centralizado.jpeg"/></p>
+<p align="center"><img height="350" width="1000" src="imgs/banner_centralizado.png"/></p>
 
 ---
 
@@ -12,6 +12,7 @@
 ### Sobre mim 
 
 Sou um estudante de Engenharia de Software e profissional certificado nas áreas de Gestão e Tecnologias da Informação. E, atualmente, direciono minha carreira para a área de DevOps, com foco na construção de ambientes e soluções escaláveis, automatizadas, seguras e confiáveis.
+
 Para isso, venho aprofundando continuamente meus conhecimentos em CI/CD, Infrastructure as Code (IaC), Cloud Computing, Sistemas Operacionais, Compliance, automação de processos com Python e n8n, além da aplicação de práticas de segurança no desenvolvimento.
 
 ---
