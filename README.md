@@ -61,7 +61,7 @@
 
 <br>
 
-Sou estudante de **Engenharia de Software** na Universidade Federal do Cariri (UFCA). Minha trajetória técnica começou no suporte e na administração de TI, e hoje avança para **Cloud e DevOps** — atualmente curso **Cloud Fundamentals, Administration and Solution Architect** pela FIAP.
+Sou estudante de **Engenharia de Software** na Universidade Federal do Cariri (UFCA). Minha trajetória técnica começou no suporte nas áreas da administração e Tecnologias da Informação, e hoje avança para **Cloud e DevOps** — atualmente me especializo através do curso **Cloud Fundamentals, Administration and Solution Architect** pela FIAP.
 
 Direciono minha carreira para **DevOps**, com foco na construção de ambientes e soluções escaláveis, automatizadas, seguras e confiáveis. Para isso, venho aprofundando meus conhecimentos em **CI/CD, Infrastructure as Code (IaC), Cloud Computing, Sistemas Operacionais e Compliance**, além de automação de processos com **Python** e **n8n** e da aplicação de práticas de segurança no desenvolvimento.
 
