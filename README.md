@@ -9,9 +9,9 @@
 <tr>
 <td style="border: 1px solid #ffffff; padding: 0;">
 
-<img src="imgs/banner.png"
+<img src="imgs/banner_Full-Stack.png"
      width="100%"
-     alt="Wellington Dantas — DevOps Engineer"/>
+     alt="Wellington Dantas — Full Stack Júnior | Cloud & Infra"/>
 
 </td>
 </tr>
@@ -21,12 +21,12 @@
 
 </div>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2600&pause=900&color=E5E5E5&center=true&vCenter=true&width=900&lines=%F0%9F%90%A7+Linux+%26+Infraestrutura;%E2%98%81%EF%B8%8F+Cloud+%26+Orquestra%C3%A7%C3%A3o;%F0%9F%94%81+CI%2FCD+e+Infrastructure+as+Code;%F0%9F%9B%A1%EF%B8%8F+DevSecOps+e+Compliance" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2600&pause=900&color=E5E5E5&center=true&vCenter=true&width=900&lines=%F0%9F%92%BB+Full+Stack+J%C3%BAnior+%E2%80%94+Back+%2B+Front;%E2%98%81%EF%B8%8F+Cloud+%26+Infra+como+diferencial;%F0%9F%90%B3+Docker%2C+CI%2FCD+%26+Deploy;%F0%9F%94%81+Sempre+construindo%2C+sempre+aprendendo" alt="Typing Animation"/>
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Angel0ps&label=Profile%20Views&color=2e2e2e&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Foco-DevOps-171717?style=for-the-badge&logo=githubactions&logoColor=e5e5e5" />
-<img src="https://img.shields.io/badge/Cloud-AWS%20%26%20Azure-171717?style=for-the-badge&logo=icloud&logoColor=e5e5e5" />
+<img src="https://img.shields.io/badge/Foco-Full%20Stack%20J%C3%BAnior-171717?style=for-the-badge&logo=react&logoColor=e5e5e5" />
+<img src="https://img.shields.io/badge/Diferencial-Cloud%20%26%20Infra-171717?style=for-the-badge&logo=icloud&logoColor=e5e5e5" />
 <img src="https://img.shields.io/badge/UFCA-Eng.%20de%20Software-171717?style=for-the-badge&logo=googlescholar&logoColor=e5e5e5" />
 
 <br><br>
@@ -51,9 +51,9 @@
 │           WELLINGTON DANTAS ANGELO           │
 ├──────────────────────────────────────────────┤
 │  Eng. de Software — UFCA                     │
-│  Foco em DevOps e Infraestrutura             │
-│  CI/CD, IaC e automação de processos         │
-│  Segurança, compliance e confiabilidade      │
+│  Full Stack Júnior (Back + Front)            │
+│  Diferencial em Cloud, IaC e CI/CD           │
+│  Construindo aplicações ponta a ponta        │
 └──────────────────────────────────────────────┘
 </pre>
 
@@ -61,9 +61,9 @@
 
 <br>
 
-Sou estudante de **Engenharia de Software** na Universidade Federal do Cariri (UFCA). Minha trajetória técnica começou no suporte nas áreas da administração e Tecnologias da Informação, e hoje avança para **Cloud e DevOps** — atualmente me especializo através do curso **Cloud Fundamentals, Administration and Solution Architect** pela FIAP.
+Sou estudante de **Engenharia de Software** na Universidade Federal do Cariri (UFCA). Minha trajetória técnica começou no suporte nas áreas da administração e Tecnologias da Informação, e hoje avança para **desenvolvimento Full Stack** — atualmente me aprofundo em nuvem através do curso **Cloud Fundamentals, Administration and Solution Architect** pela FIAP.
 
-Direciono minha carreira para **DevOps**, com foco na construção de ambientes e soluções escaláveis, automatizadas, seguras e confiáveis. Para isso, venho aprofundando meus conhecimentos em **CI/CD, Infrastructure as Code (IaC), Cloud Computing, Sistemas Operacionais e Compliance**, além de automação de processos com **Python** e **n8n** e da aplicação de práticas de segurança no desenvolvimento.
+Direciono minha carreira para o **desenvolvimento Full Stack**, unindo backend, frontend e bancos de dados a uma base em **Cloud, CI/CD e Infrastructure as Code (IaC)** que poucos júniores constroem cedo. Essa combinação é o meu diferencial: penso em como uma aplicação vai rodar, escalar e ser entregue com segurança desde a primeira linha de código. Também automatizo processos com **Python** e **n8n**.
 
 <br>
 
@@ -72,14 +72,14 @@ Direciono minha carreira para **DevOps**, com foco na construção de ambientes 
 <pre>
 wellington = {
     "name": "Wellington Dantas Angelo",
-    "role": "DevOps Engineer in progress",
+    "role": "Full Stack Júnior — Cloud & Infra como diferencial",
     "focus": [
-        "CI/CD",
-        "Infrastructure as Code",
-        "Cloud Computing",
-        "DevSecOps"
+        "Backend (APIs REST)",
+        "Frontend (React)",
+        "Cloud & IaC",
+        "CI/CD"
     ],
-    "tools": ["Docker", "Kubernetes", "Jenkins", "Python", "n8n"],
+    "tools": ["Python", "React", "Docker", "PostgreSQL", "n8n"],
     "university": "UFCA",
     "os": "Arch Linux, by the way"
 }
@@ -111,12 +111,12 @@ Assistente de Tecnologias da Informação • Assistente Administrativo Completo
 
 | Área | Destaque |
 |---|---|
-| **CI/CD** | Pipelines, builds e entregas contínuas |
-| **IaC** | Provisionamento versionado e reprodutível |
-| **Cloud** | AWS, Azure e arquiteturas escaláveis |
-| **Linux** | Administração, shell e troubleshooting |
-| **Automação** | Python, n8n e rotinas operacionais |
-| **DevSecOps** | Compliance e segurança no ciclo de dev |
+| **Backend** | APIs REST, autenticação, lógica de negócio |
+| **Frontend** | Interfaces em React consumindo APIs |
+| **Cloud & IaC** | AWS, Azure e provisionamento versionado |
+| **CI/CD** | Pipelines, testes e entregas automatizadas |
+| **Databases** | Modelagem relacional e SQL |
+| **DevSecOps** | Segurança e compliance no ciclo de dev |
 
 </div>
 
@@ -128,7 +128,11 @@ Assistente de Tecnologias da Informação • Assistente Administrativo Completo
 
 **Linguagens**
 
-<img src="https://skillicons.dev/icons?i=python,go,js,c,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,go,c,bash&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
 
 **Infraestrutura & Orquestração**
 
@@ -136,7 +140,7 @@ Assistente de Tecnologias da Informação • Assistente Administrativo Completo
 
 **Ambientes**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,ubuntu,debian&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,ubuntu,debian&theme=dark" />
 
 **Bancos de Dados**
 
@@ -144,7 +148,7 @@ Assistente de Tecnologias da Informação • Assistente Administrativo Completo
 
 **Ferramentas**
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark" />
 
 </div>
 
@@ -167,12 +171,11 @@ Assistente de Tecnologias da Informação • Assistente Administrativo Completo
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Infrastructure%20as%20Code-0a0a0a?style=for-the-badge&logo=terraform&logoColor=e5e5e5"/>
-<img src="https://img.shields.io/badge/CI%2FCD-171717?style=for-the-badge&logo=githubactions&logoColor=e5e5e5"/>
-<img src="https://img.shields.io/badge/Kubernetes-2e2e2e?style=for-the-badge&logo=kubernetes&logoColor=e5e5e5"/>
-<img src="https://img.shields.io/badge/n8n-0a0a0a?style=for-the-badge&logo=n8n&logoColor=e5e5e5"/>
-<img src="https://img.shields.io/badge/Cybersecurity-171717?style=for-the-badge&logo=hackthebox&logoColor=e5e5e5"/>
-<img src="https://img.shields.io/badge/Compliance-2e2e2e?style=for-the-badge&logo=checkmarx&logoColor=e5e5e5"/>
+<img src="https://img.shields.io/badge/APIs%20REST-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=e5e5e5"/>
+<img src="https://img.shields.io/badge/-171717?style=for-the-badge&logo=c&logoColor=e5e5e5"/>
+<img src="https://img.shields.io/badge/PostgreSQL-2e2e2e?style=for-the-badge&logo=postgresql&logoColor=e5e5e5"/>
+<img src="https://img.shields.io/badge/Docker%20%26%20CI%2FCD-0a0a0a?style=for-the-badge&logo=docker&logoColor=e5e5e5"/>
+<img src="https://img.shields.io/badge/Infrastructure%20as%20Code-171717?style=for-the-badge&logo=terraform&logoColor=e5e5e5"/>
 
 </div>
 
@@ -188,6 +191,8 @@ Assistente de Tecnologias da Informação • Assistente Administrativo Completo
 <img src="https://img.shields.io/badge/Pygame-171717?style=flat-square&logo=python&logoColor=e5e5e5"/>
 
 **Conceitos praticados:** Arquitetura modular • Colaboração em equipe com Git • Persistência de dados em JSON • Documentação técnica
+
+> 🚧 Próximo projeto (em construção): uma aplicação full stack própria — API + banco de dados + front-end em React, containerizada e com deploy via CI/CD. É o projeto que vai provar a combinação Full Stack + Infra na prática.
 
 ---
 
