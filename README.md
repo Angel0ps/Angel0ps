@@ -61,9 +61,11 @@
 
 <br>
 
-Sou estudante de **Engenharia de Software** na Universidade Federal do Cariri (UFCA). Minha trajetória técnica começou no suporte nas áreas da administração e Tecnologias da Informação, e hoje avança para **desenvolvimento Full Stack** — atualmente me aprofundo em nuvem através do curso **Cloud Fundamentals, Administration and Solution Architect** pela FIAP.
+Sou estudante de Engenharia de Software na Universidade Federal do Cariri (UFCA). Minha jornada na TI começou no suporte técnico e na rotina administrativa, onde desenvolvi uma visão prática de resolução de problemas. Hoje, meu foco é o desenvolvimento Full Stack.
 
-Direciono minha carreira para o **desenvolvimento Full Stack**, unindo backend, frontend e bancos de dados a uma base em **Cloud, CI/CD e Infrastructure as Code (IaC)** que poucos júniores constroem cedo. Essa combinação é o meu diferencial: penso em como uma aplicação vai rodar, escalar e ser entregue com segurança desde a primeira linha de código. Também automatizo processos com **Python** e **n8n**.
+Tenho me dedicado ao aprendizado de backend, frontend e bancos de dados, buscando conectar o desenvolvimento com noções de Cloud, CI/CD e Infraestrutura como Código (IaC) — tema que venho aprofundando no curso Cloud Fundamentals, Administration and Solution Architect pela FIAP. Gosto de entender como o software funciona no ciclo completo, desde a escrita do código até a sua execução em produção, e utilizo Python e n8n para criar automações e simplificar rotas de trabalho.
+
+Estou em constante aprendizado, buscando oportunidades para colaborar em equipe, construir projetos reais e evoluir como desenvolvedor.
 
 <br>
 
@@ -113,7 +115,7 @@ Assistente de Tecnologias da Informação • Assistente Administrativo Completo
 |---|---|
 | **Backend** | APIs REST, autenticação, lógica de negócio |
 | **Frontend** | Interfaces em React consumindo APIs |
-| **Cloud & IaC** | AWS, Azure e provisionamento versionado |
+| **Cloud & IaC** | AWS e provisionamento versionado |
 | **CI/CD** | Pipelines, testes e entregas automatizadas |
 | **Databases** | Modelagem relacional e SQL |
 | **DevSecOps** | Segurança e compliance no ciclo de dev |
