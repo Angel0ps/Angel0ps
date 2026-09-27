@@ -128,7 +128,7 @@ Assistente de Tecnologias da Informação • Assistente Administrativo Completo
 
 **Linguagens**
 
-<img src="https://skillicons.dev/icons?i=python,ts,go,c,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,ts,go,c,rust,bash&theme=dark" />
 
 **Frontend**
 
