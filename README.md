@@ -9,7 +9,7 @@
 <tr>
 <td style="border: 1px solid #ffffff; padding: 0;">
 
-<img src="imgs/Full-Stack.jpg"
+<img src="imgs/Novo_banner.jpeg"
      width="100%"
      alt="Wellington Dantas — Full Stack Júnior | Cloud & Infra"/>
 
