@@ -24,7 +24,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2600&pause=900&color=E5E5E5&center=true&vCenter=true&width=900&lines=%F0%9F%92%BB+Full+Stack+J%C3%BAnior+%E2%80%94+Back+%2B+Front;%E2%98%81%EF%B8%8F+Cloud+%26+Infra+como+diferencial;%F0%9F%90%B3+Docker%2C+CI%2FCD+%26+Deploy;%F0%9F%94%81+Sempre+construindo%2C+sempre+aprendendo" alt="Typing Animation"/>
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Angel0ps&label=Profile%20Views&color=2e2e2e&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Angel0ps&label=Profile+Views&color=2e2e2e&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Foco-Full%20Stack%20J%C3%BAnior-171717?style=for-the-badge&logo=react&logoColor=e5e5e5" />
 <img src="https://img.shields.io/badge/Diferencial-Cloud%20%26%20Infra-171717?style=for-the-badge&logo=icloud&logoColor=e5e5e5" />
 <img src="https://img.shields.io/badge/UFCA-Eng.%20de%20Software-171717?style=for-the-badge&logo=googlescholar&logoColor=e5e5e5" />
